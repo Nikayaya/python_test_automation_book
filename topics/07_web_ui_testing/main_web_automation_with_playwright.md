@@ -478,5 +478,5 @@ permanentAddress = "379 Apple Rd";
 Name:Donald Duck
 Email:donald.duck@example.com
 Current Address :56 Main St
-Permananet Address :379 Apple Rd
+Permanet Address :379 Apple Rd
 ```
